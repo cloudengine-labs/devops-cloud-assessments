@@ -40,7 +40,7 @@
 
 ### How to submit
 
-- Capture the output of **Steps 2,3 and 4 (also 5 if you've done it)** in _Google Document_
+- Capture the output of **Steps 3,4 and 5 (also 6 if you've done it)** in _Google Document_
 - Share repository link from your GitHub account
 - Share the google document link to [work@cloudenginelabs.io](mailto:work@cloudenginelabs.io)
 
