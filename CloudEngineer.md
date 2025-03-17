@@ -1,4 +1,4 @@
-# **Cloud Engineer Assignment: Deploying a Python Flask App on AWS EC2 Using Terraform**
+# **Cloud Engineer Assignment: Developing a Python Flask App and deploying in Cloud
 
 ## Time limit
 
