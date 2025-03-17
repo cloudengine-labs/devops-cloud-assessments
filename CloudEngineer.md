@@ -24,7 +24,7 @@ The goal of this assignment is to evaluate your ability to:
    - Deploy the containerized Flask application.
    - Expose the application via a public URL.
 
-Step 3: Candidate can use the Cloud provider which they are comfortable with
+Step 3: Candidate can use the Cloud provider which they are comfortable working and deploying apps.
 
 ---
 
