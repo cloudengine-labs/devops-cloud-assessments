@@ -1,4 +1,4 @@
-# **Cloud Engineer Assignment: Developing a Python Flask App and deploying in Cloud
+# Cloud Engineer Assignment: Developing a Python Flask App and deploying in Cloud
 
 ## Time limit
 
